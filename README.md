@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am passionate about technology that strikes the perfect balance between the logic of code and the harmony of design. As a professional focused on Software Development and Data Analysis, I not only build functional solutions, but also apply my critical eye for graphic design to create intuitive user experiences. I firmly believe that good software should be as efficient on the inside as it is attractive on the outside. My background in crafts has given me a unique patience and attention to detail that I bring to every line of code I write.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ElIngeDary&label=Profile%20views&color=0e75b6&style=plastic" alt="ElIngeDary" /> </p>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElIngeDary&theme=algolia" alt="ElIngeDary"  /></p>
