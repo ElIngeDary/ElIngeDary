@@ -15,7 +15,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages
-<img src="https://skillicons.dev/icons?i=cs,js,java,python,django,flask" />
+<img src="https://skillicons.dev/icons?i=cs,js,python,django,flask,fastapi" />
 
 ### 👉 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
